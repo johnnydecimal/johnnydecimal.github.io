@@ -8,8 +8,8 @@ Hi this is a README whose text inexplicably disappeared.
 
 - Airbnb
 
-| Tue 17 | Wed 18 | Thu 19 | Fri 20 | Sat 21 |
-|--------|--------|--------|--------|--------|
-| Place  |        |        |        | Place  |
-|        | Flight |        | Trip   |        |
-|        |        |        |        |        |
+| Date   | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24        |
+|--------|--------|--------|--------|--------|----------------------------------------|---------------------|---------------|
+| Place  |        |        |        |        |                                        |                     | Carlton Hotel |
+| Flight |        |        |        |        |                                        | 10:55 SQ317 LHR-SIN |               |
+| Other  |        |        |        |        | Mam & dad fly to LHR & stay overnight? |                     |               |
