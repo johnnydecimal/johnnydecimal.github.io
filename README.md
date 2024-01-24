@@ -1,5 +1,3 @@
-**Australia 2024 🥳**
-
 ## Week 1
 
 | Date  | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24        |
