@@ -2,11 +2,11 @@
 
 ## Week 1
 
-| Date   | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24        |
-|--------|--------|--------|--------|--------|----------------------------------------|---------------------|---------------|
-| Place  |        |        |        |        |                                        |                     | Carlton Hotel |
-| Flight |        |        |        |        |                                        | 10:55 SQ317 LHR-SIN |               |
-| Other  |        |        |        |        | Mam & dad fly to LHR & stay overnight? |                     |               |
+| Date  | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24        |
+| ----- | ------ | ------ | ------ | ------ | -------------------------------------- | ------------------- | ------------- |
+| Move  |        |        |        |        |                                        | 10:55 SQ317 LHR-SIN |               |
+| Stay  |        |        |        |        |                                        |                     | Carlton Hotel |
+| Other |        |        |        |        | Mam & dad fly to LHR & stay overnight? |                     |               |
 
 ### To-do
 
@@ -16,8 +16,16 @@
 
 ## Week 2
 
-| Date   | Mon 25 | Tue 26 | Wed 27 | Thu 28 | Fri 29                                 | Sat 30              | Dec 1        |
-|--------|--------|--------|--------|--------|----------------------------------------|---------------------|---------------|
-| Place  |        |        |        |        |                                        |                     |               |
-| Flight |        | 20:40 SQ221 SIN-SYD       |        |        |                             |                     |               |
-| Other  |        |        |        |        |                                        |                     |               |
+| Date  | Mon 25        | Tue 26              | Wed 27     | Thu 28     | Fri 29     | Sat 30     | Mon Dec 1  |
+| ----- | ------------- | ------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Move  |               | 20:40 SQ221 SIN-SYD |            |            |            |            |            |
+| Stay  | Carlton Hotel |                     | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD |
+| Other |               |                     |            |            |            |            |            |
+
+## Week 3
+
+| Date  | Mon 2      | Tue 3      | Wed 4       | Thu 5      | Fri 6      | Sat 7      | Sun 8 |
+| ----- | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ----- |
+| Move  |            |            | Fly SYD-CBR |            |            |            |       |
+| Stay  | Airbnb SYD | Airbnb SYD | Airbnb CBR  | Airbnb CBR | Airbnb CBR | Airbnb CBR |       |
+| Other |            |            |             |            |            |            |       |
