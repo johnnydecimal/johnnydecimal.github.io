@@ -1,6 +1,4 @@
----
-title: Australia 2024 🥳
----
+**Australia 2024 🥳**
 
 ## Week 1
 
