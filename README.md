@@ -6,8 +6,6 @@
 | Stay  |        |        |        |        |                                        |                     | Carlton Hotel    |
 | Other |        |        |        |        | Mam & dad fly to LHR & stay overnight? |                     |                  |
 
-### To-do
-
 - [ ] Pack light! For god's sake.
 - [ ] Get mam & dad to LHR. Probably the night before with a stay in [an airport hotel](https://www.heathrow.com/at-the-airport/lounges-hotels-spas/heathrow-hotels).
   - Mam has one in mind.
@@ -20,6 +18,11 @@
 | Move  |               | 20:40 SQ221 SIN-SYD | 07:40 arrive SYD |            |            |            |            |
 | Stay  | Carlton Hotel |                     | Airbnb SYD       | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD |
 | Other |               |                     |                  |            |            |            |            |
+
+- [ ] **John** to research Sydney Airbnb.
+  - Have had a quick look, there are a bunch.
+  - Budget £3,000 for the week for a central house with 4+ bedrooms.
+  - I'll have a proper look with Lucy over the weekend; she knows the area.
 
 ## Week 3
 
@@ -34,6 +37,9 @@
   - **Jill or mam** you should book this asap if the rest of these plans look good.
 - We can either fly SYD-CBR or I can rent a minivan. This far ahead I should be able to find good flight deals.
   - [ ] **John** to look at SYD-CBR flights.
+- [] **John** to research Gold Coast Airbnb.
+  - I've had a quick look and there's a bunch.
+  - It's looking like £2,000 for the week for a 4+ bedroom place for us all.
 
 ## Week 4
 
