@@ -17,7 +17,7 @@
 
 | Date     | Mon 25        | Tue 26              | Wed 27           | Thu 28     | Fri 29     | Sat 30     | Mon Dec 1  |
 | -------- | ------------- | ------------------- | ---------------- | ---------- | ---------- | ---------- | ---------- |
-| **City** | `Singapore`   | `✈️`                | `Sydney`         | `Sydney`   | `Sydney`   | `Sydney`   | `Sydney`   |
+| **City** | `Singapore`   | &#x2708;&#xFE0F;    | `Sydney`         | `Sydney`   | `Sydney`   | `Sydney`   | `Sydney`   |
 | Move     |               | 20:40 SQ221 SIN-SYD | 07:40 arrive SYD |            |            |            |            |
 | Stay     | Carlton Hotel | _Overnight flight_  | Airbnb SYD       | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD |
 | Other    |               |                     |                  |            |            |            |            |
