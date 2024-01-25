@@ -3,12 +3,13 @@
 | Date  | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24           |
 | ----- | ------ | ------ | ------ | ------ | -------------------------------------- | ------------------- | ---------------- |
 | Move  |        |        |        |        |                                        | 10:55 SQ317 LHR-SIN | 07:50 arrive SIN |
-| Stay  |        |        |        |        |                                        |                     | Carlton Hotel    |
+| Stay  |        |        |        |        |                                        | _Overnight flight_  | Carlton Hotel    |
 | Other |        |        |        |        | Mam & dad fly to LHR & stay overnight? |                     |                  |
 
 - [ ] Pack light! For god's sake.
 - [ ] Get mam & dad to LHR. Probably the night before with a stay in [an airport hotel](https://www.heathrow.com/at-the-airport/lounges-hotels-spas/heathrow-hotels).
   - Mam has one in mind.
+- Will the Jones' just drive to LHR on Saturday morning?
 - [ ] Book the [Carlton Hotel](https://www.carltonhotel.sg/) in Singapore.
 
 ## Week 2
@@ -16,7 +17,7 @@
 | Date  | Mon 25        | Tue 26              | Wed 27           | Thu 28     | Fri 29     | Sat 30     | Mon Dec 1  |
 | ----- | ------------- | ------------------- | ---------------- | ---------- | ---------- | ---------- | ---------- |
 | Move  |               | 20:40 SQ221 SIN-SYD | 07:40 arrive SYD |            |            |            |            |
-| Stay  | Carlton Hotel |                     | Airbnb SYD       | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD |
+| Stay  | Carlton Hotel | _Overnight flight_  | Airbnb SYD       | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD |
 | Other |               |                     |                  |            |            |            |            |
 
 - [ ] **John** to research Sydney Airbnb.
@@ -37,7 +38,7 @@
   - **Jill or mam** you should book this asap if the rest of these plans look good.
 - We can either fly SYD-CBR or I can rent a minivan. This far ahead I should be able to find good flight deals.
   - [ ] **John** to look at SYD-CBR flights.
-- [] **John** to research Gold Coast Airbnb.
+- [ ] **John** to research Gold Coast Airbnb.
   - I've had a quick look and there's a bunch.
   - It's looking like £2,000 for the week for a 4+ bedroom place for us all.
 
