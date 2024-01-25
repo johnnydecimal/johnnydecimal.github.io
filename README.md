@@ -1,3 +1,5 @@
+## Week 1
+
 | Date  | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24           |
 | ----- | ------ | ------ | ------ | ------ | -------------------------------------- | ------------------- | ---------------- |
 | Move  |        |        |        |        |                                        | 10:55 SQ317 LHR-SIN | 07:50 arrive SIN |
@@ -26,21 +28,25 @@
 | Stay  | Airbnb SYD | Airbnb SYD | Airbnb CBR    | Airbnb CBR | Airbnb CBR | Airbnb CBR |       |
 | Other |            |            |               |            |            |            |       |
 
+- [This 4-bedroom Airbnb is one minute walk from our house](https://www.airbnb.com.au/rooms/29219095?check_in=2024-12-04&check_out=2024-12-08&guests=1&adults=5&s=67&unique_share_id=9ac3f978-4c7d-406e-87e5-d8b1fc7fc689). It's £1000 for 4 nights. **We should book it asap.**
+- We can either fly SYD-CBR or I can rent a minivan. This far ahead I should be able to find good flight deals.
+  - [ ] **John** to look at SYD-CBR flights.
+
 ## Week 4
 
-| Date  | Mon 9 | Tue 10 | Wed 11 | Thu 12 | Fri 13 😲 | Sat 14 | Sun 15                           |
-| ----- | ----- | ------ | ------ | ------ | --------- | ------ | -------------------------------- |
-| Move  |       |        |        |        |           |        |                                  |
-| Stay  |       |        |        |        |           |        | SYD airport hotel [^sydairhotel] |
-| Other |       |        |        |        |           |        |                                  |
+| Date  | Mon 9 | Tue 10 | Wed 11 | Thu 12 | Fri 13 😲 | Sat 14 | Sun 15            |
+| ----- | ----- | ------ | ------ | ------ | --------- | ------ | ----------------- |
+| Move  |       |        |        |        |           |        |                   |
+| Stay  |       |        |        |        |           |        | SYD airport hotel |
+| Other |       |        |        |        |           |        |                   |
 
-[^sydairhotel]: We stayed at [Citadines Connect, Sydney Airport](http://www.citadines-connect-sydney-airport.connectotels.com).
+- We stayed at [Citadines Connect, Sydney Airport](http://www.citadines-connect-sydney-airport.connectotels.com).
 
 ## Week 5
 
-| Date  | Mon 16              | Tue 17 | Wed 11 | Thu 12 | Fri 13 😲 | Sat 14 | Sun 15 |
-| ----- | ------------------- | ------ | ------ | ------ | --------- | ------ | ------ |
-| Move  | 06:45 SQ202 SYD-SIN |        |        |        |           |        |        |
-|       | 12:45 SQ318 SIN-LHR |        |        |        |           |        |        |
-| Stay  |                     |        |        |        |           |        |        |
-| Other |                     |        |        |        |           |        |        |
+| Date  | Mon 16                                                   | Tue 17                        | Wed 11 | Thu 12 | Fri 13 😲 | Sat 14 | Sun 15 |
+| ----- | -------------------------------------------------------- | ----------------------------- | ------ | ------ | --------- | ------ | ------ |
+| Move  | 06:45 SQ202 SYD-SIN                                      | Mam & dad get from LHR to NCL |        |        |           |        |        |
+|       | 12:45 SQ318 SIN-LHR                                      |                               |        |        |           |        |        |
+| Stay  | Mam & dad stay overnight in LHR                          |                               |        |        |           |        |        |
+| Other | You arrive LHR 19:10, assume the Jones' will drive home? |                               |        |        |           |        |        |
