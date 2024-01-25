@@ -2,7 +2,7 @@
 
 | Date     | Mon 18 | Tue 19 | Wed 20 | Thu 21 | Fri 22                                 | Sat 23              | Sun 24           |
 | -------- | ------ | ------ | ------ | ------ | -------------------------------------- | ------------------- | ---------------- |
-| **City** |        |        |        |        |                                        |                     | `Singapore`      |
+| **City** |        |        |        |        | `Mam & dad: Heathrow`                  | `-flying-`          | `Singapore`      |
 | Move     |        |        |        |        |                                        | 10:55 SQ317 LHR-SIN | 07:50 arrive SIN |
 | Stay     |        |        |        |        |                                        | _Overnight flight_  | Carlton Hotel    |
 | Other    |        |        |        |        | Mam & dad fly to LHR & stay overnight? |                     |                  |
@@ -17,7 +17,7 @@
 
 | Date     | Mon 25        | Tue 26              | Wed 27           | Thu 28     | Fri 29     | Sat 30     | Mon Dec 1  |
 | -------- | ------------- | ------------------- | ---------------- | ---------- | ---------- | ---------- | ---------- |
-| **City** | `Singapore`   |                     | `Sydney`         | `Sydney`   | `Sydney`   | `Sydney`   | `Sydney`   |
+| **City** | `Singapore`   | `-flying-`          | `Sydney`         | `Sydney`   | `Sydney`   | `Sydney`   | `Sydney`   |
 | Move     |               | 20:40 SQ221 SIN-SYD | 07:40 arrive SYD |            |            |            |            |
 | Stay     | Carlton Hotel | _Overnight flight_  | Airbnb SYD       | Airbnb SYD | Airbnb SYD | Airbnb SYD | Airbnb SYD |
 | Other    |               |                     |                  |            |            |            |            |
@@ -64,7 +64,7 @@
 
 | Date     | Mon 16                                                   | Tue 17                        | Wed 18 | Thu 19 | Fri 20 | Sat 21 | Sun 22 |
 | -------- | -------------------------------------------------------- | ----------------------------- | ------ | ------ | ------ | ------ | ------ |
-| **City** | `Sydney (airport)`                                       | `Home`                        |        |        |        |        |        |
+| **City** | `Land in the UK`                                         |                               |        |        |        |        |        |
 | Move     | 06:45 SQ202 SYD-SIN                                      | Mam & dad get from LHR to NCL |        |        |        |        |        |
 |          | 12:45 SQ318 SIN-LHR                                      |                               |        |        |        |        |        |
 | Stay     | Mam & dad stay overnight in LHR                          |                               |        |        |        |        |        |
